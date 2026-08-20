@@ -82,7 +82,7 @@ A workforce-wide diagnostic view: five KPI cards (Total Paid, Mandatory Amount, 
 
 A per-employee drill-down: employee profile card (name, location, job title, contract dates), Allowance / Bonus / Overtime / Undertime KPI cards, an overtime-vs-undertime trend by pay period, and a full timesheet breakdown table including leave type and TOIL accrued.
 
-![Payroll dashboard](Employee_Ddetails.png)
+![Payroll dashboard](Employee_Details.png)
 
 ### 5. Recommendations
 
